@@ -9,7 +9,7 @@ export function Header (){
                 <img src="https://github/AlineMirian.png" alt="Foto de usuário" />
 
                 <div>
-                    <span>Bom-vindo</span>
+                    <span>Bem-vindo</span>
                     <strong>Aline Mirian</strong>
                 </div>
             </Profile>
